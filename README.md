@@ -1,2 +1,5 @@
-# MacOS.py.qemu-GUI
-A GUI Based Installer for Mac OS virtualization using Python
+# Linux MacOS Virtualisation 
+- A GUI Based Installer for Mac OS virtualization using Java. 
+- Still under development 
+- Follow to get posted on updates 
+- Exciting updates soon! 
