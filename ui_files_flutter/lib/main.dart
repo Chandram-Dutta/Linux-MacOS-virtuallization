@@ -11,9 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'LinMac',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: 
       home: const MyHomePage(),
     );
   }
@@ -24,6 +22,9 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: AppBar(),
+      body: Container(),
+    );
   }
 }
