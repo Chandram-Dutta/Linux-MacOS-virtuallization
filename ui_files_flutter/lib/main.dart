@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("LinMac"),
+        title: Text("L"),
       ),
       body: Container(),
     );
